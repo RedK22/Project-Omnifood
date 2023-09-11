@@ -14,7 +14,7 @@ Brand color: #e67e22
 
 ### Summary
 
-  The smart 365-days-per-year food subscription that will make you eat healthy again. Tailored to your personal tastes and nutritional needs. We have delivered 250,000+ meals last year!
+The smart 365-days-per-year food subscription that will make you eat healthy again. Tailored to your personal tastes and nutritional needs. We have delivered 250,000+ meals last year!
 
 ### Omnifood features
 
@@ -119,10 +119,3 @@ Create account
 Sign in
 iOS app
 Android app
-About Omnifood
-For Business
-Cooking partners
-Careers
-Recipe directory
-Help center
-Privacy & terms
